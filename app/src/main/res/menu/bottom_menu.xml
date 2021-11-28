@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragment_inicio"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/fragment_map"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="Mapa" />
+    <item
+        android:id="@+id/fragment_alumnos"
+        android:icon="@drawable/ic_baseline_person_add_alt_1_24"
+        android:title="Alumno" />
+</menu>
